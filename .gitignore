@@ -1,0 +1,16 @@
+*.pkl
+.vscode/
+*.txt
+*.csv
+*.json
+__pycache__/
+log/
+checkpoint/
+*.out
+wandb/
+*.png
+png/
+saved/
+figure/
+!requirements.txt
+
